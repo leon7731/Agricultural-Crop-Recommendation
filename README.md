@@ -29,6 +29,16 @@ Various machine learning models are employed to generate accurate crop recommend
 Additionally, all model hyperparameters are finely tuned using Optuna, to ensure optimal performance.
 
 
+| Model | Precision Macro average (%) | Recall Macro average (%) | F1-Score Macro average (%) | Accuracy (%) |
+|:-----------:|:------------:|:------------:|:-----------:|:-----------:|
+| [AdaBoost Classification](https://github.com/leon7731/Agricultural-Crop-Recommendation/tree/main/AdaBoost) | 95 | 93 | 93 | 94 |
+| [CatBoost Classification](https://github.com/leon7731/Agricultural-Crop-Recommendation/tree/main/CatBoost) | 99 | 99 | 99 | 99 |
+| [Decision Tree Classification](https://github.com/leon7731/Agricultural-Crop-Recommendation/tree/main/Decision%20Tree) | 99 | 99 | 99 | 99 |
+| [KNN Classification](https://github.com/leon7731/Agricultural-Crop-Recommendation/tree/main/KNN) | 97 | 97 | 97 | 97 |
+| [Multi-Layer Perceptrons Classification](https://github.com/leon7731/Agricultural-Crop-Recommendation/tree/main/MLP%20Classifier) | 97 | 98 | 97 | 97 |
+| [Random Forest Classification](https://github.com/leon7731/Agricultural-Crop-Recommendation/tree/main/Random%20Forest) | 99 | 99 | 99 | 99 |
+| [SVM Classification](https://github.com/leon7731/Agricultural-Crop-Recommendation/tree/main/SVM) | 98 | 98 | 98 | 98 |
+| [XGBoost Classification](https://github.com/leon7731/Agricultural-Crop-Recommendation/tree/main/XGBoost) | 99 | 99 | 99 | 99 |
 
 # Conclusion
 
