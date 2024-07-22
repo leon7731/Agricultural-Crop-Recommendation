@@ -1,3 +1,5 @@
+<img align="top" width="80%" align="right" alt="Logo" src="https://drive.google.com/uc?export=view&id=15HsBzA7ZW8wxegUO5z1EjQBvuUe-RuAd" />
+
 # Introduction
 
 In modern agriculture, the recommendation of suitable crops for specific regions is paramount, especially with the advent of data-driven farming techniques. Accurate crop recommendations rely on comprehensive datasets that include soil properties, climatic conditions, historical crop performance, and current market trends. Analyzing and interpreting these datasets provide invaluable insights that are essential for optimizing agricultural practices, enhancing crop productivity, and ensuring sustainable farming.
